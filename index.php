@@ -55,7 +55,22 @@ $gap = 'salom, mening ismim Xurshid';
 //
 //echo $math;
 
+//
+//define('RANG', 'yashil');
+//
+//echo RANG;
 
-define('RANG', 'yashil');
+$a = 20;
+$b = 201;
 
-echo RANG;
+//$value = $a + $b;
+//
+//echo $value;
+
+if($a == $b) {
+    echo 'a teng b ga';
+} elseif($a > $b) {
+    echo 'a b dan katta';
+} else {
+    echo 'a teng emas b ga';
+}
