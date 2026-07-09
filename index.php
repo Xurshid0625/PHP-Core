@@ -66,11 +66,25 @@ $b = 201;
 //$value = $a + $b;
 //
 //echo $value;
+//
+//if($a == $b) {
+//    echo 'a teng b ga';
+//} elseif($a > $b) {
+//    echo 'a b dan katta';
+//} else {
+//    echo 'a teng emas b ga';
+//}
 
-if($a == $b) {
-    echo 'a teng b ga';
-} elseif($a > $b) {
-    echo 'a b dan katta';
-} else {
-    echo 'a teng emas b ga';
+$rang = 'red';
+
+switch($rang) {
+    case 'red';
+        echo 'qizil';
+        break;
+    case 'greee';
+        echo 'yashil';
+        break;
+   default;
+         echo 'yoq';
 }
+
