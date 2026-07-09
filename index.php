@@ -54,3 +54,8 @@ $gap = 'salom, mening ismim Xurshid';
 //$math = rand(1, 100);
 //
 //echo $math;
+
+
+define('RANG', 'yashil');
+
+echo RANG;
