@@ -35,8 +35,17 @@ class Car
 
 $myCar = new Car("Black", "BYD");
 
-echo $myCar->message();
+//echo $myCar->message();
 
 
-?>
+$gap = 'salom, mening ismim Xurshid';
 
+//echo strlen($gap);
+
+//echo str_replace('mening', 'my', $gap);
+
+//echo str_word_count($gap);
+
+//echo strrev($gap);
+
+//echo strpos($gap, 'mening');
