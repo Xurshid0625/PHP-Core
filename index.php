@@ -49,3 +49,8 @@ $gap = 'salom, mening ismim Xurshid';
 //echo strrev($gap);
 
 //echo strpos($gap, 'mening');
+
+//
+//$math = rand(1, 100);
+//
+//echo $math;
