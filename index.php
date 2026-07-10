@@ -73,18 +73,51 @@ $b = 201;
 //    echo 'a b dan katta';
 //} else {
 //    echo 'a teng emas b ga';
+//}xurshid.jira2006
+//
+//$rang = 'red';
+//
+//switch($rang) {
+//    case 'red';
+//        echo 'qizil';
+//        break;
+//    case 'greee';
+//        echo 'yashil';
+//        break;
+//   default;
+//         echo 'yoq';
 //}
 
-$rang = 'red';
+//for ($x = 1; $x <= 100; $x++) {
+//    if ($x == 6) {
+//        continue;
+//    }
+//    echo $x . '<br>';
+//}
 
-switch($rang) {
-    case 'red';
-        echo 'qizil';
-        break;
-    case 'greee';
-        echo 'yashil';
-        break;
-   default;
-         echo 'yoq';
-}
+//$x = 1;
+//while($x <= 10) {
+//    if ($x == 8) {
+//        break;
+//    }
+//    echo $x . '<br>';
+//    $x++;
+//}
+
+
+//$sons = [1, 2, 3, 4, 5];
+//
+//$age = array("ali"=>"20", "asil"=>"22");
+//
+//foreach($age as $name => $age) {
+//    echo $name . ' - ' . $age . '<br>';
+//}
+
+//$x = 1;
+//do {
+//    echo $x . '<br>';
+//    $x++;
+//} while ($x <= 5);
+
+
 
