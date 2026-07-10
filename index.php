@@ -119,5 +119,23 @@ $b = 201;
 //    $x++;
 //} while ($x <= 5);
 
+//functions
+
+//function names($name) {
+//    echo 'ism' . ' ' . $name . 'ga teng' . '<br>';
+//}
+//
+//names('Xurshid');
+//names('Ali');
+
+function qoshish($x, $y)
+{
+
+    $result =  $x + $y;
+    return $result;
+}
+
+$nat = qoshish(20, 30);
+ echo $nat;
 
 
