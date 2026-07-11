@@ -128,14 +128,35 @@ $b = 201;
 //names('Xurshid');
 //names('Ali');
 
-function qoshish($x, $y)
-{
+//function qoshish($x, $y)
+//{
+//
+//    $result =  $x + $y;
+//    return $result;
+//}
+//
+//$nat = qoshish(20, 30);
+// echo $nat;
 
-    $result =  $x + $y;
-    return $result;
-}
+// Array
 
-$nat = qoshish(20, 30);
- echo $nat;
+//var_dump($_SERVER['SERVER_SOFTWARE']);
 
-
+//$ovqats = ['ssdd', 'ssdd', 'ssdd', 'ssdd'];
+//
+?>
+<!---->
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+<!--    <title>Page Title</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<ul>-->
+<!--    --><?php //foreach($ovqats as $ovqat): ?>
+<!--    <h1>--><?php //= $ovqat ?><!--</h1>-->
+<!--    --><?php //endforeach; ?>
+<!--</ul>-->
+<!---->
+<!--</body>-->
+<!--</html>-->
